@@ -1,0 +1,63 @@
+Date: ``
+Project/Initiative: [Name of the project, feature, or initiative]
+
+Situation:
+(Briefly describe the context. What was the problem or opportunity?)
+
+Example: "The team's legacy data processing pipeline was slow, taking over 75 minutes to run, and was written in a deprecated language that no one felt comfortable modifying."
+
+Task:
+(What was the specific goal? What were you responsible for?)
+
+Example: "My task was to improve the performance and maintainability of the pipeline. The goal was to reduce processing time and make it easier to add new data sources in the future."
+
+Action:
+(Describe the specific steps YOU took. Use "I" statements. This is the most important section.)
+
+Example: "I analyzed the existing scripts and identified major bottlenecks in API calls and data serialization. I designed and implemented a new pipeline in Python with a plugin-based architecture. I introduced batching for API calls and implemented an in-memory cache for frequently accessed data. I wrote comprehensive unit and integration tests to ensure reliability."
+
+Result:
+(What was the outcome? Quantify the impact with metrics. How did it benefit the team, the customer, or the business?)
+
+Example: "Reduced average processing time from 75 minutes to under 2 minutes (a 97% improvement). The new plugin architecture allowed two new data sources to be added in the following quarter with zero outages. The new system is now the team standard for all data preprocessing."
+
+Amazon Leadership Principles Demonstrated:
+(List the LPs this work showcases. This helps frame your impact in Amazon's language.)
+
+[ ] Customer Obsession
+
+[X] Ownership
+
+[X] Invent and Simplify
+
+[ ] Are Right, A Lot
+
+[ ] Learn and Be Curious
+
+[ ] Hire and Develop the Best
+
+[X] Insist on the Highest Standards
+
+[ ] Think Big
+
+[ ] Bias for Action
+
+[ ] Frugality
+
+[ ] Earn Trust
+
+[X] Dive Deep
+
+[ ] Have Backbone; Disagree and Commit
+
+[X] Deliver Results
+
+Supporting Evidence / Links:
+
+Design Doc: [Link]
+
+Metrics Dashboard: [Link]
+
+Code Review / Pull Request: [Link]
+
+Positive Feedback from Peer/Stakeholder: [Link to email or chat]
