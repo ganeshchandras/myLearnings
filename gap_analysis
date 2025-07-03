@@ -1,0 +1,50 @@
+Competency Area
+
+L6 Expectation
+
+Self-Rating (1-5)
+
+Evidence (What have I done here? Link to examples)
+
+My Gap (What's the difference between me and L6?)
+
+Action Plan (How will I close this gap?)
+
+Technical Architecture & Design
+
+Leads the design of ambiguous, multi-component, large-scale systems with little guidance. Thinks in terms of long-term architecture and customer value, not just code.    
+
+3
+
+Example: "Led the design for the new notification service (link)."
+
+Example: "My designs have focused on single components, not complex systems spanning multiple services. I need to demonstrate the ability to handle ambiguity at the system level."
+
+Example: "Volunteer to write the architecture doc for the upcoming Q3 cross-team project. Schedule design reviews with principal engineers for feedback on long-term scalability."
+
+Scope & Ambiguity
+
+Independently defines and solves ambiguous business and technical problems. Creates scope for themselves and others by identifying unowned, high-impact problems.    
+
+Leadership & Influence (Force Multiplication)
+
+Acts as a force multiplier for the team. Formally mentors junior engineers, improves team-wide processes (e.g., CI/CD, testing frameworks), and influences the technical direction of partner teams.    
+
+Business & Customer Impact
+
+Connects technical decisions to business objectives and customer needs. Makes data-driven trade-off decisions and can articulate the "why" behind the work to both technical and non-technical stakeholders.    
+
+Operational Excellence
+
+Leads the charge on improving the operational posture of the team's services. Drives initiatives to improve monitoring, reduce operational load, and resolve the root cause of recurring issues.    
+
+Hiring & Developing Talent
+
+Actively participates in hiring and is a formal mentor for new hires or interns. Is accountable for the technical growth of others and contributes to raising the team's overall talent bar.  1    
+How to navigate the difficult SDE 2 to SDE 3 promotion? - Taro
+
+jointaro.com/question/Tno7LGeINpsTPrljUTTT/how-to-navigate-the-difficult-sde-2-to-sde-3-promotion
+Leadership Principles - Amazon.jobs
+
+amazon.jobs/content/our-workplace/leadership-principles
+
